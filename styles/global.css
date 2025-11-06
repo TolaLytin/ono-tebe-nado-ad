@@ -10,6 +10,10 @@ body {
   font-family: Raleway, sans-serif;
 }
 
+html{
+  font-size: 20px;
+}
+
 h1,
 h2,
 h3,
@@ -27,8 +31,44 @@ blockquote {
 
 a {
   color: inherit;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: none;
+  border-bottom: 1px solid #000;
 }
 
 img {
   width: 100%;
+}
+
+button {
+  font: inherit;
+}
+
+h1{
+  font-weight: 700;
+  font-size: 100px;
+  line-height: 115%;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+}
+
+h2{
+  font-weight: bold;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+h3{
+  font-size: 22px;
+  line-height: 120%;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+}
+
+p{
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 120%;
 }
