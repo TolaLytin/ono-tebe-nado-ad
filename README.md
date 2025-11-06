@@ -1,1 +1,1 @@
-https://github.com/TolaLytin/ono-tebe-nado-main
+https://github.com/TolaLytin/ono-tebe-nado-ad
